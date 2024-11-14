@@ -1,15 +1,4 @@
 # Cryptographic Secure Messaging System
-
-## Assignment Overview
-
-This project implements a secure client-server messaging application as part of the course **COL759: Cryptography & Computer Security**. The system ensures confidentiality, integrity, and freshness of messages by using AES encryption in CBC mode, a password-based key derivation function, and session-specific salts.
-
-**Prepared By:**
-- Abhinav Singh : 2021CS50746
-- Pushpraj : 2021CS50596
-
-**Guide:** Prof. Ashok K Bhateja, Department of Computer Science and Engineering, Indian Institute of Technology, Delhi
-
 ---
 
 ## Project Approach and Code Flow
